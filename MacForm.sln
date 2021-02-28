@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacForm", "MacForm\MacForm.csproj", "{FC1819A8-7D20-4F13-ABE1-3B05E6EC7E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC1819A8-7D20-4F13-ABE1-3B05E6EC7E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1819A8-7D20-4F13-ABE1-3B05E6EC7E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1819A8-7D20-4F13-ABE1-3B05E6EC7E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1819A8-7D20-4F13-ABE1-3B05E6EC7E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48A6F10-50DE-4E77-B0C1-DDB4207D841A}
+	EndGlobalSection
+EndGlobal
